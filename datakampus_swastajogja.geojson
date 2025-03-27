@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Teknologi Yogyakarta",
+        "alamat": "Jl. Ringroad Utara, Jombor, Sendangadi, Mlati, Sendangadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55285"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35533379263995,
+          -7.74811787128489
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Janabadra",
+        "alamat": "Jl. Tentara Rakyat Mataram No.58, Bumijo, Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35735463209909,
+         -7.783943644888211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Mercu Buana",
+        "alamat": "Jl. Wates Km. 10, Argomulyo, Sedayu, Argomulyo, Sedayu, Bantul, Daerah Istimewa Yogyakarta 55753"
+      },
+      "geometry": {
+        "coordinates": [
+          110.41390092100374,
+          -7.7630770238323805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Sanata Dharma",
+        "alamat":"Jl. Affandi Tromol Pos 29, Mrican, Catur Tunggal, Depok, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55002"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39127240169614,
+          -7.774988016458678
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Proklamasi 45",
+        "alamat": "Jl. Proklamasi No. 1, Babarsari, Caturtunggal, Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283"
+
+      },
+      "geometry": {
+        "coordinates": [
+           110.41814601070604,
+          -7.774397856668514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus":"Universitas Widya Mataram",
+        "alamat":"Jl.  Dalem Mangkubumen KT III/237, Kadipaten, Kraton, Kadipaten, Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55132"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35833267135615,
+         -7.806671400435576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Kristen Duta Wiyata",
+        "alamat": "Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kecamatan Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3783869853313,
+          -7.7861884556328675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Muhammadiyah Yogyakarta",
+        "alamat": "Jl. Brawijaya, Kasihan, Tamantirto, Kasihan, Bantul, Daerah Istimewa Yogyakarta 55183"
+      },
+      "geometry": {
+        "coordinates": [
+         110.32164224718025,
+         -7.8103859149864405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_kampus": "Universitas Ahmad Dahlan",
+        "alamat": "Kapas No.9, Semaki, Umbulharjo, Semaki, Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3829199036615,
+          -7.798732111325492
+        ],
+        "type":"Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties":{
+        "nama_kampus": "Universitas Cokroaminoto",
+        "alamat": "Jl.  Perintis Kemerdekaan, Gambiran, Pandeyan, Umbulharjo, Pandeyan, Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55161"
+      },
+      "geometry":{
+        "coordinates": [
+          110.39292199145234,
+          -7.819570914584702
+        ],
+        "type":"Point"
+      }
+    }
+  ]
+}
